@@ -33,6 +33,10 @@ The dataset for this practice can be found in `nyc-ufo-sightings.json`. It is an
 
 * Write a function called `getRandomSighting()` that returns a **random** ufo sighting object from the `UFO_SIGHTINGS` dataset. If you need help or a hint, [click here](https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array).
 
+* Write a function called `getComment` that takes in a ufo sighting object as an argument and returns the comment as a string.
+
+* Write a function called `getFirstWordInComment` that takes a ufo sighting object as an argument and returns the first word in the commnent.
+
 * Write a function called `shapeTypes` that returns an array of all the different shapes that are present in the `UFO_SIGHTINGS`. There should only be one copy of each shape in the returned array (no duplicates). 
 
 * Write a function called `calculateViewDuration` that takes in a ufo sighting object and returns the string `"Short"` if the object's duration is under 120, `"Average"` if the time is between 120 and 240, and `"Long"` if the time is greater than 240.
