@@ -8,6 +8,8 @@ Core concepts:
 * Iteration, Loops
 * Map, Filter, Find
 
+Write your code in `index.js`. You can see the `console.log()` output by using `node index.js` in the terminal from this directory.
+
 ---
 ## UFO Sighting Object
 
