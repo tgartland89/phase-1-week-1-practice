@@ -29,7 +29,7 @@ The dataset for this practice can be found in `nyc-ufo-sightings.json`. It is an
 ---
 ## Challenges
 
-* Write a function called `calculateMinutes` that takes in an argument called `seconds` and coverts returns how many minutes it is equal to, rounding down.
+* Write a function called `calculateMinutes` that takes in an argument called `seconds` and returns how many minutes it is equal to, rounding down.
 
 * Write a function called `getRandomSighting` that returns a **random** ufo sighting object from the `UFO_SIGHTINGS` dataset. If you need help or a hint, [click here](https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array).
 
